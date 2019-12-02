@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/associacaoconstrucao/static/css/main.3d49e134.chunk.css",
-    "main.js": "/associacaoconstrucao/static/js/main.bbf6ccbd.chunk.js",
-    "main.js.map": "/associacaoconstrucao/static/js/main.bbf6ccbd.chunk.js.map",
+    "main.css": "/associacaoconstrucao/static/css/main.ef844d58.chunk.css",
+    "main.js": "/associacaoconstrucao/static/js/main.087e545b.chunk.js",
+    "main.js.map": "/associacaoconstrucao/static/js/main.087e545b.chunk.js.map",
     "runtime-main.js": "/associacaoconstrucao/static/js/runtime-main.c876f08e.js",
     "runtime-main.js.map": "/associacaoconstrucao/static/js/runtime-main.c876f08e.js.map",
     "static/css/2.64a99b10.chunk.css": "/associacaoconstrucao/static/css/2.64a99b10.chunk.css",
-    "static/js/2.afaba035.chunk.js": "/associacaoconstrucao/static/js/2.afaba035.chunk.js",
-    "static/js/2.afaba035.chunk.js.map": "/associacaoconstrucao/static/js/2.afaba035.chunk.js.map",
+    "static/js/2.f29b7e36.chunk.js": "/associacaoconstrucao/static/js/2.f29b7e36.chunk.js",
+    "static/js/2.f29b7e36.chunk.js.map": "/associacaoconstrucao/static/js/2.f29b7e36.chunk.js.map",
     "index.html": "/associacaoconstrucao/index.html",
-    "precache-manifest.9595a297097d07bdf772c458762e00a0.js": "/associacaoconstrucao/precache-manifest.9595a297097d07bdf772c458762e00a0.js",
+    "precache-manifest.2028a2e400c3e830494a946ba61f2bdf.js": "/associacaoconstrucao/precache-manifest.2028a2e400c3e830494a946ba61f2bdf.js",
     "service-worker.js": "/associacaoconstrucao/service-worker.js",
     "static/css/2.64a99b10.chunk.css.map": "/associacaoconstrucao/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.3d49e134.chunk.css.map": "/associacaoconstrucao/static/css/main.3d49e134.chunk.css.map",
+    "static/css/main.ef844d58.chunk.css.map": "/associacaoconstrucao/static/css/main.ef844d58.chunk.css.map",
+    "static/media/74427190_2454586588142571_4094831973309087744_n.jpg": "/associacaoconstrucao/static/media/74427190_2454586588142571_4094831973309087744_n.3a655174.jpg",
+    "static/media/77088852_2475938972673999_1116830933073264640_n.jpg": "/associacaoconstrucao/static/media/77088852_2475938972673999_1116830933073264640_n.dde33cd0.jpg",
     "static/media/App.css": "/associacaoconstrucao/static/media/Brandon_light.4147f3fd.otf",
     "static/media/logoAssocia.png": "/associacaoconstrucao/static/media/logoAssocia.eb722da3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c876f08e.js",
     "static/css/2.64a99b10.chunk.css",
-    "static/js/2.afaba035.chunk.js",
-    "static/css/main.3d49e134.chunk.css",
-    "static/js/main.bbf6ccbd.chunk.js"
+    "static/js/2.f29b7e36.chunk.js",
+    "static/css/main.ef844d58.chunk.css",
+    "static/js/main.087e545b.chunk.js"
   ]
 }
