@@ -1,14 +1,12 @@
 import React from 'react';
-import { Col, Row } from 'reactstrap';
+import { Container } from 'reactstrap';
 import './Footer.css';
 
 function Footer() {
   return (
-    <footer>
-      <Row style={{ paddingLeft: "50px", paddingRight: "50px" }}>
-        <Col sm={{ size: 10, offset: 1 }} md={{ size: 4, offset: 4 }}>
-          <div style={{ padding: "5px", paddingLeft: "15px", boxShadow: "1px 1px 5px #999999 !important", height: "90%", width: "auto", float: "left", borderRadius: "100px" }}>
-            <h4>Fique ligado!</h4>
+    <footer className="footing">
+      <Container fluid style={{padding: '4% !important'}}>
+        <div style={{padding: 50}}>
             <p>
               Venha nos conhecer mais no #1 Episódio do nosso podcast
               <br />
@@ -19,8 +17,7 @@ function Footer() {
               <i>Construindo um novo futuro para a nação</i>
             </p>
           </div>
-        </Col>
-      </Row>
+        </Container>
     </footer>)
 }
 
