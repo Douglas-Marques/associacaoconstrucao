@@ -55,7 +55,7 @@ function App() {
       </Row>
 
       <Row style={{ padding: "40px" }}>
-        <Col sm={{ size: 2, offset: 5 }} md={{ size: 2, offset: 5 }} style={{paddingTop:"10px",height:"50px", boxShadow: "1px 1px 5px #888888 !important", color: "white", backgroundColor: "rgb(140, 220, 207)"}}>
+        <Col sm={{ size: 2, offset: 5 }} md={{ size: 2, offset: 5 }} style={{paddingTop:"10px",height:"80px", boxShadow: "1px 1px 5px #888888 !important", color: "white", backgroundColor: "rgb(140, 220, 207)"}}>
           <p>Confira nossos produtos:</p>
         </Col>
       </Row>
