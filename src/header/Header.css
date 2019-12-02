@@ -1,0 +1,10 @@
+header {
+    height: 150px;
+    background-color: rgb(166, 240, 227);
+    box-shadow: 1px 1px 5px #888888 !important;
+}
+
+#imageContainer {
+    box-shadow: 1px 1px 5px #888888 !important;
+}
+
