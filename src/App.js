@@ -69,6 +69,22 @@ function App() {
         </Col>
       </Row>
 
+      <Row style={{ padding: "40px" }}>
+        <Col sm={{ size: 2, offset: 5 }} md={{ size: 2, offset: 5 }} style={{ borderBottom: "1px solid gray", height: "1px" }}>
+        </Col>
+      </Row>
+      
+      <Row style={{ paddingLeft: "50px", paddingRight: "50px" }}>
+        <Col sm={{ size: 10, offset: 1 }} md={{ size: 4, offset: 4 }}>
+        <iframe
+  			frameborder="0" style={{border:0, width:"300px", height:"250px"}}
+  			src={"https://www.google.com/maps/embed/v1/place?key=AIzaSyANMjXQn8sXrGqzkNRvKedMUoWv-1lpQCc&q=Rua+Vigário+José+Inácio,303+-+Porto+Alegre+-+RS"}>
+		</iframe>
+        </Col>
+      </Row>
+
+      
+
       <Footer />
     </div>
   );
