@@ -14,7 +14,8 @@ function Footer() {
               <a href="https://www.megafono.host/podcast/associacao-com-sinceridade"><b>Rádio Voz da Sinceridade da Associação Construcão</b></a>
               <i class="fas fa-headphones"></i>
               <br />
-              <i>Construindo um novo futuro para a nação</i>
+              <i>Construindo um novo futuro</i>
+              <p><i>(51) 99288-7093</i></p>
             </p>
           </div>
         </Container>
