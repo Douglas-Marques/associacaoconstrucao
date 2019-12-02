@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/associacaoconstrucao/static/css/main.3d49e134.chunk.css",
+    "main.js": "/associacaoconstrucao/static/js/main.bbf6ccbd.chunk.js",
+    "main.js.map": "/associacaoconstrucao/static/js/main.bbf6ccbd.chunk.js.map",
+    "runtime-main.js": "/associacaoconstrucao/static/js/runtime-main.c876f08e.js",
+    "runtime-main.js.map": "/associacaoconstrucao/static/js/runtime-main.c876f08e.js.map",
+    "static/css/2.64a99b10.chunk.css": "/associacaoconstrucao/static/css/2.64a99b10.chunk.css",
+    "static/js/2.afaba035.chunk.js": "/associacaoconstrucao/static/js/2.afaba035.chunk.js",
+    "static/js/2.afaba035.chunk.js.map": "/associacaoconstrucao/static/js/2.afaba035.chunk.js.map",
+    "index.html": "/associacaoconstrucao/index.html",
+    "precache-manifest.9595a297097d07bdf772c458762e00a0.js": "/associacaoconstrucao/precache-manifest.9595a297097d07bdf772c458762e00a0.js",
+    "service-worker.js": "/associacaoconstrucao/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/associacaoconstrucao/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.3d49e134.chunk.css.map": "/associacaoconstrucao/static/css/main.3d49e134.chunk.css.map",
+    "static/media/App.css": "/associacaoconstrucao/static/media/Brandon_light.4147f3fd.otf",
+    "static/media/logoAssocia.png": "/associacaoconstrucao/static/media/logoAssocia.eb722da3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c876f08e.js",
+    "static/css/2.64a99b10.chunk.css",
+    "static/js/2.afaba035.chunk.js",
+    "static/css/main.3d49e134.chunk.css",
+    "static/js/main.bbf6ccbd.chunk.js"
+  ]
+}
